@@ -1,0 +1,5 @@
+/Volumes/MAC/Jarmo/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.csprojAssemblyReference.cache
+/Volumes/MAC/Jarmo/Projects/Palindrome/Palindrome/bin/Debug/Palindrome.exe
+/Volumes/MAC/Jarmo/Projects/Palindrome/Palindrome/bin/Debug/Palindrome.pdb
+/Volumes/MAC/Jarmo/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.exe
+/Volumes/MAC/Jarmo/Projects/Palindrome/Palindrome/obj/Debug/Palindrome.pdb
